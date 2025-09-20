@@ -195,3 +195,5 @@
 2025-09-19 22:19:09,906 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2025-09-19 22:19:09,912 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2025-09-19 22:19:09,913 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projects\Hospital_Management_System\src\test\resources
+2025-09-20 00:48:57,922 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@45cd9900{STOPPING}[12.0.12,sto=0]
+2025-09-20 00:48:57,929 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@25d44a8{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
